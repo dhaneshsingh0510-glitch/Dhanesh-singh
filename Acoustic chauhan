@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acoustic Chauhan | गिटार लेसंस</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Acoustic Chauhan</h1>
+        <p>गिटार सीखने का सबसे आसान तरीका</p>
+    </header>
+
+    <div class="container">
+        <div class="course-grid">
+            <div class="card">
+                <h3>1. बेसिक गिटार लेसंस</h3>
+                <p>कॉर्ड्स, स्ट्रमिंग और सिंगिंग का तालमेल।</p>
+            </div>
+            <div class="card">
+                <h3>2. स्ट्रमिंग (Strumming)</h3>
+                <p>चक, हार्टबीट स्टाइल और पाम म्यूटिंग।</p>
+            </div>
+            <div class="card">
+                <h3>3. एडवांस तकनीक</h3>
+                <p>परकशन, टैब्स और फिंगरस्टाइल।</p>
+            </div>
+            <div class="card">
+                <h3>4. गिटार मेंटेनेंस</h3>
+                <p>स्ट्रिंग बदलना और बॉडी की सफाई।</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
